@@ -16,8 +16,6 @@
 &nbsp;&nbsp;
 ## Stay tuned!
 
-[![website](./img/icons8-blog-48.png)](https://www.comandantechi.com/)
-&nbsp;&nbsp;
 [![website](./img/icons8-youtube-quadratisch-48.png)](https://www.youtube.com/channel/UCe-H73i-MtAdGnH3SwBGl7g)
 &nbsp;&nbsp;
 [![website](./img/icons8-twitter-48.png)](https://twitter.com/alexeichio)
